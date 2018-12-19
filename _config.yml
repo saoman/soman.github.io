@@ -89,10 +89,13 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "Apple",
-        href: "https://apple.com"
+        title: "Github",
+        href: "https://github.com"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "cordova",
+        href: "http://cordova.axuer.com/"
+    },{
+        title: "electron",
+        href: "https://electronjs.org/"
     }
 ]
