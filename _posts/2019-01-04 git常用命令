@@ -27,3 +27,8 @@ git add
 git commit -m ""
 
 git push
+
+
+git submodule init 初始化子模块
+
+git submodule update 更新子模块
