@@ -16,7 +16,9 @@ git -h
 
 git clone 
 
-git branch
+git branch -a
+
+git branch -r
 
 git checkout -b newBrach origin/master
 
@@ -27,7 +29,6 @@ git add
 git commit -m ""
 
 git push
-
 
 git submodule init 初始化子模块
 
