@@ -38,5 +38,4 @@ HBuilderX里新建默认模板的uni-app项目
 
 
 ![](https://github.com/saoman/saoman.github.io/blob/master/img/mpvue-to-uniapp.png)
-![](http://ww4.sinaimg.cn/large/006tKfTcgy1fgrgbgf77aj308i02v748.jpg)
 
