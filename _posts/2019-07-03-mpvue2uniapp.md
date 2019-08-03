@@ -37,6 +37,6 @@ HBuilderX里新建默认模板的uni-app项目
 手动安装package.json文件dependencies节点下的模块（忽略mpvue、vuex、flyio，这些已经内置在uni-app内），安装方式可参考参考社区文章：uni-app引用npm第三方库，HBuilderX 0.1.51或以上版本可直接使用npm管理依赖：NPM支持。
 
 
-![](./img/mpvue-to-uniapp.png)
+![](../img/mpvue-to-uniapp.png)
 ![](http://ww4.sinaimg.cn/large/006tKfTcgy1fgrgbgf77aj308i02v748.jpg)
 
