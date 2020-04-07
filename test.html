@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style> *{
+		font-size: 6vw;
+	}
+	input{
+		width: 100vw;
+	}
+	</style>
+<script>
+function copyText()
+{
+// document.getElementById("field2").value=document.getElementById("field1").value;
+// document.getElementById("field1").value;
+location.href=document.getElementById("field1").value
+}
+</script>
+</head>
+<body>
+
+Field1: <input type="text" id="field1" value="https://h5.meetao.com/jump"><br>
+
+<button onclick="copyText()">跳转</button>
+<p></p>
+
+</body>
+</html>
