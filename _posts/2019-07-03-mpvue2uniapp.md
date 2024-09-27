@@ -3,7 +3,7 @@ layout:     post
 title:      mpvue to uniapp
 subtitle:   mpvue to uniapp
 date:       2018-07-03
-author:     BY
+author:     YS
 catalog: true
 tags:
     - mpvue to uniapp
